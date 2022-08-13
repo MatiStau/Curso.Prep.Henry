@@ -1,0 +1,18 @@
+Variables:
+son objetos que definimos para guardar información para usarla luego. var nombre = asignar
+
+String:
+es un tipo/clase de dato: bloque de texto que va entre comillas
+
+Funciones (argumentos/return):
+agrupan código, lo guardan para ejecutarlo despues. function mifuncion (){}
+los argumentos van entre los parentesis, pueden ser variables.
+return va a devolver algo de la función.
+
+Declaraciones if:
+operador de control de flujo, se usa para obtener resultados verdadero o falso.
+verifica que algo sea verdadero entonces ejecuta ese código, si es falso sigue y ejecuta otro código.
+
+valores booleanos:
+tipo/clase de dato: true o false.
+

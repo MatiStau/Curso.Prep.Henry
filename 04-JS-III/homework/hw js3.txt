@@ -1,0 +1,2 @@
+Arrays:
+son arreglos/matrices donde se pueden guardar colecciones de tipos de datos (cadenas, numeros, booleanos) y acceder luego.

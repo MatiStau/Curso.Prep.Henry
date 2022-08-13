@@ -1,0 +1,11 @@
+For:
+Es un bucle que evalua expresiones una y otra vez hasta que devuelve lo que buscamos o se detiene.
+
+&&:
+and:y: compara dos expresiones, si ambas son true, es true, sino es false.
+
+||:
+or:o: compara dos expresiones, si ambas son false, es false, sino es true.
+
+!:
+not:no devuelve el contrario de la expresión. 
